@@ -3,8 +3,8 @@
 ## Installation
 1. Clone this repository:
   ```sh
-  git clone https://github.com/yourusername/fyne-gomi.git
-  cd fyne-gomi
+  git clone https://github.com/andrizan/gomi-app.git
+  cd gomi-app
   ```
 2. Build and run the application:
   ```sh
